@@ -1,5 +1,5 @@
-# Vegin
-Vegin é um aplicativo que busca melhorar a qualidade de vida de veganos, lhes ajudando em tarefas rotineiras de seu dia-a-dia 
+# O que é o Vegin?
+Vegin é um aplicativo que busca melhorar a qualidade de vida de veganos, lhes auxiliando em tarefas rotineiras de seu dia-a-dia 
 
 # Repostas discursivas a pergunta: O que você define como veganismo?
 
