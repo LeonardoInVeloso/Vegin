@@ -1,7 +1,7 @@
 # O que é o Vegin?
 Vegin é um aplicativo que busca melhorar a qualidade de vida de veganos, lhes auxiliando em tarefas rotineiras de seu dia-a-dia 
 
-# Repostas discursivas a pergunta: O que você define como veganismo?
+## Repostas discursivas a pergunta: O que você define como veganismo?
 
 Abstenção de qualquer tipo de comida animal  
 
@@ -154,7 +154,7 @@ Não promover a produção de produtos de origem animal.
 
 Não ingerir ou consumir nenhum tipo de produto que tenha origem animal  
 
-# Repostas discursivas a pergunta: Existe mais alguma dificuldade em vivenciar o veganismo não mencionada anteriormente? Se existe qual seria?
+## Repostas discursivas a pergunta: Existe mais alguma dificuldade em vivenciar o veganismo não mencionada anteriormente? Se existe qual seria?
 
 A maior dificuldade do veganismo são as pessoas que persistem em desprezar a dor alheia e criam inúmeras desculpas para continuar financiando a matança e exploração animal. Porém em vista o que os animais passam não há dificuldade nenhuma.  
 
