@@ -1,0 +1,12 @@
+{
+  "name": "veginapp",
+  "displayName": "veginapp",
+  "expo": {
+    "name": "veginapp",
+    "slug": "veginapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
